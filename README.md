@@ -38,3 +38,8 @@ cd Rest-intolerance-predict-problematic-social-media-use
 
 Estimated Runtime:
 ~20 minutes
+
+
+For more detailed technical specifications and implementation details, please refer to:
+README.txt files in each subdirectory
+In-line code comments throughout all script files
